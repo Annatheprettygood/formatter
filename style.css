@@ -1,0 +1,20 @@
+body {
+  margin:2.5% 25%;
+}
+
+#copy {
+  width: 100%;
+}
+
+#formatted {
+  min-height: 65%
+}
+
+#links {
+  background-color: white;
+  display: flex;
+}
+
+a {
+  margin: 0 10px;
+}
