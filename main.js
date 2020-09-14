@@ -84,3 +84,4 @@ function format() {
   document.getElementById("formatted").innerHTML = array.join("")
 
 }
+//Made by Anna Lin
